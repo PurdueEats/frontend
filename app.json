@@ -1,0 +1,11 @@
+{
+  "name": "PurdueEats",
+  "expo": {
+    "ios": {
+      "userInterfaceStyle": "automatic",
+    },
+    "android": {
+      "userInterfaceStyle": "automatic",
+    }
+  }
+}
